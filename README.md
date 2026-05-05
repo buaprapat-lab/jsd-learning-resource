@@ -97,3 +97,13 @@ Work through the modules in order (00 → 07). Each topic is self-contained: rea
 - [Database probing](08-interview-prep/database-probing/README.md) — MongoDB schema decisions, indexing, populate
 - [System design probing](08-interview-prep/system-design-probing/README.md) — Architecture, API contracts, scalability basics
 - [Problem solving probing](08-interview-prep/problem-solving-probing/README.md) — JavaScript problems, think-aloud technique
+
+---
+
+## Community
+
+Each cohort has a folder in [`cohorts/`](cohorts/) where learners, instructors, and mentors share resources with each other. Find your cohort, open your file, and add links that have genuinely helped you — a video that made closures click, a tool that saved you hours, a post that changed how you think about something.
+
+| Cohort | Folder |
+| ------ | ------ |
+| JSD-12 | [cohorts/jsd-12/](cohorts/jsd-12/) |
