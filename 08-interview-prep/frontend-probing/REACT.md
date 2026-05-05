@@ -1,3 +1,9 @@
+# Frontend / React Interview Reference
+
+This reference maps every area that frontend and React interviews probe — from browser fundamentals to component architecture to TypeScript. Use it alongside the [Frontend Probing](README.md) mental model to know what you'll be tested on, and return to specific sections the night before an interview.
+
+---
+
 Typical frontend / React interviews usually probe **three things**:
 
 1. Can you explain how the browser, JavaScript, and React actually work?
@@ -830,3 +836,7 @@ For frontend / React candidates, I would evaluate across these five areas:
 | Product/user awareness | accessibility, UX, performance, edge cases |
 
 The biggest red flag is when someone can repeat definitions but cannot explain what happens in a real component when state changes, data loads, or the user interacts with the UI.
+
+---
+
+← [Frontend Probing](README.md) | [Interview Prep](../README.md)

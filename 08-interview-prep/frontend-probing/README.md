@@ -78,6 +78,7 @@ Do this without looking at notes. If you get stuck, that's the gap to study — 
 
 ## Go Deeper
 
+- [REFERENCE] Frontend / React Interview Reference — [REACT.md](REACT.md) — A complete map of all 20 areas frontend interviewers probe: HTML/CSS, JavaScript, hooks, data fetching, state management, forms, routing, performance, accessibility, testing, TypeScript, and more. Read after the mental model above to survey the full scope; return to specific sections the night before an interview.
 - [VIDEO] What is React? — https://react.dev/learn/thinking-in-react — Read this, not watch. The "Thinking in React" walkthrough is the mental model interviewers expect junior devs to have internalized.
 - [READ] How browsers work: behind the scenes of modern web browsers — https://web.dev/articles/howbrowserswork — Read the "Rendering engine" section only; the rest is useful but lower priority for interviews at this level.
 - [READ] A Complete Guide to useEffect — https://overreacted.io/a-complete-guide-to-useeffect/ — Long. Read the first half; the "Each Render Has Its Own…" section is the part that comes up in interviews.
